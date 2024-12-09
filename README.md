@@ -21,3 +21,11 @@ While there are some things I would change nowadays, especially within the ECS d
 
 [Kuriotska](https://github.com/3rd-Party-Guy/Kuriotska)
 Simple top-down game inspired by Vampire Survivors. Written purely in C++, using ncurses for graphics. Utilizes multi-threading and an internal ECS.
+
+## Libraries
+[JDL](https://github.com/3rd-Party-Guy/JustDrawLib)
+Object-Oriented, Header-only SDL2 extension for drawing primitives.
+Great for prototyping games, optimized polygon drawing algorithm.
+
+[Perlini](https://github.com/3rd-Party-Guy/Perlini)
+Header-only assymetrical perlin noise generator, originally written for Kuriotska.
