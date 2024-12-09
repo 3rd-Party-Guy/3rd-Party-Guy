@@ -10,6 +10,7 @@ Somewhat unconventional implementation of a finite state machine. The design is 
 Uses Unity Blackboards to manage state and context. Allows for modular, designer-friendly state-machine design that can easily be changed during runtime.
 All behaviour and state is encapsulated and private, making debugging very easy. 
 
+## Games from Scratch
 [Element-FighterZ](https://github.com/3rd-Party-Guy/Element-Fighter)
 A 1v1 fighting game created using pure JavaScript. Engine architecture uses an ECS implementation. Characters, combat, and animations are defined using JSONs and loaded in dynamically,
 making extension very easy and modular. I created a novel combat-collision technique using shaders and XOR operations. This allows for a fast combat system in which what you see is truly what you get.
